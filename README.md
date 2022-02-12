@@ -3,7 +3,6 @@
 
 
 
-![image](https://visitor-badge.glitch.me/badge?page_id=harkhanid.harkhani.d-badge.issue.1)
 
 [![Dharmik's github stats](https://github-readme-stats.vercel.app/api?username=harkhanid)](https://github.com/anuraghazra/github-readme-stats)
 
